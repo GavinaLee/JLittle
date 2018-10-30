@@ -11,5 +11,6 @@
     <module>01_slf4j_log4j</module>
     <module>02_slf4j_logback</module>
     <module>03_slf4j_graylog</module>
+    <module>04_json_fastjson</module>
   </modules>
 </project>
