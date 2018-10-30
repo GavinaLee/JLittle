@@ -9,5 +9,6 @@
   <description>little but all in here</description>
   <modules>
     <module>01_slf4j_log4j</module>
+    <module>02_slf4j_logback</module>
   </modules>
 </project>
