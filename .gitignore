@@ -1,0 +1,42 @@
+# Eclipse
+.metadata/
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.project
+.classpath
+.loadpath
+
+## External tool builders
+.externalToolBuilders/
+
+## Locally stored "Eclipse launch configurations"
+*.launch
+
+## Java annotation processor (APT)
+.factorypath
+
+## STS (Spring Tool Suite)
+.springBeans
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+## Compiled class file
+*.class
+
+## Log file
+*.log
+*.log.*
+
+# Maven
+target/
+log/
+
+/*.iml
