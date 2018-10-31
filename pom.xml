@@ -13,5 +13,6 @@
     <module>03_slf4j_graylog</module>
     <module>04_json_fastjson</module>
     <module>05_mysql_mybatis</module>
+    <module>06_mysql_jdbc</module>
   </modules>
 </project>
