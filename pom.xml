@@ -14,5 +14,6 @@
     <module>04_json_fastjson</module>
     <module>05_mysql_mybatis</module>
     <module>06_mysql_jdbc</module>
+    <module>07_mysql_jdbctemplate</module>
   </modules>
 </project>
