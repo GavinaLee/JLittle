@@ -1,9 +1,6 @@
 # JLittle
  little，but all in here.
  
-mybatis
-
-
 事务
  线程池
  无锁

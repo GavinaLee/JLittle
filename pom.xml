@@ -15,5 +15,6 @@
     <module>05_mysql_mybatis</module>
     <module>06_mysql_jdbc</module>
     <module>07_mysql_jdbctemplate</module>
+    <module>08_collection_map</module>
   </modules>
 </project>
