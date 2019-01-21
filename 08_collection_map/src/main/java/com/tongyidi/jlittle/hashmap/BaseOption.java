@@ -45,7 +45,7 @@ public class BaseOption {
 		map.put(null, "this is also null");// 可以插入null键
 		map.put(userkey, userkey);// 可以把对象当成key
 		map.put(user2, userkey);// key和 value都可以放对象实例
-
+      
 		// 第一种：普遍使用，二次取值
 		System.out.println("通过Map.keySet遍历key和value：");
 		for (Object key : map.keySet()) {// 第一种遍历

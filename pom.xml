@@ -16,5 +16,7 @@
     <module>06_mysql_jdbc</module>
     <module>07_mysql_jdbctemplate</module>
     <module>08_collection_map</module>
+     <module>09_thread_lock</module>
+    <module>10_timer_quartz</module>
   </modules>
 </project>
